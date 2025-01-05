@@ -24,7 +24,7 @@
 
 <p>Click on each link to see the step-by-step project walk-through with screenshots included</p>
 
-- [Disassembling a PC](https://github.com/Anmoldeep2002/Installing-Windows-Server-2016-OS/tree/main)
+- [Disassembling a PC](https://github.com/Anmoldeep2002/Disassembling-PC/tree/main)
 - [Assembling a PC](https://github.com/Anmoldeep2002/Installing-Windows-10-OS)
 
 
